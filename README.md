@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co.com/yDRCy9r" alt="Findle Model" width="250"/>
+  <img src="https://i.ibb.co.com/qzn8sSv/model.png" alt="Findle Model" width="250"/>
 </p>
 
 <h1 align="center">Findle – AI Smart Tag & Safety Platform</h1>
@@ -83,5 +83,5 @@ Our bet: evolve from a hardware tracker to a **data-driven safety ecosystem** - 
 <p align="center">
   🌐 <a href="https://findle-tags.netlify.app">Website</a> • 
   📩 <a href="mailto:mahdyhossainjinan@gmail.com">Contact</a> • 
-  📄 Pitch Deck: *included in investor package*
+  📄 <a href="https://drive.google.com/file/d/bc1qpjq2u4vwnyxe3u0flg8hfp3c8mfmd9f38ydu07/view?usp=sharing">Pitch Deck</a> • 
 </p>
