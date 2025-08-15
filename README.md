@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/u/0/drive-viewer/AKGpiha2xcUEGWMzz4YWntIxe26LWBtjq_60lRYM6p2PhA1LT2G8QHAzv8GfzeIedQgLTsuUEiKfa1mW-H2CD4pAIESxAfs_yL044ps=s1600-rw-v1" alt="Findle Model" width="250"/>
+  <img src="https://ibb.co.com/yDRCy9r" alt="Findle Model" width="250"/>
 </p>
 
 <h1 align="center">Findle – AI Smart Tag & Safety Platform</h1>
@@ -13,7 +13,7 @@ Findle is a next-generation **AI-powered smart tag** that:
 - **Locates hidden items**, even through walls/furniture
 - Powers **life-saving personal safety automations**
 
-We combine **hardware + subscription** — a notoriously brutal model — so from day one, we’ve engineered to:
+We combine **hardware + subscription** - a notoriously brutal model - so from day one, we’ve engineered to:
 - Scale subscriptions fast
 - Use **our own logistics hubs** to reduce retail cost
 - Maintain cost advantage over copycats
@@ -25,19 +25,19 @@ Margins on hardware are tight.
 Copycat threat is **real**.  
 Regulatory risk is **non-trivial**.  
 
-Even with patents, big players can close the gap fast — our moat will be:
+Even with patents, big players can close the gap fast - our moat will be:
 - **Exclusive datasets** from theft-prevention events  
 - **Relentless cost-down** at scale  
 - **Constant innovation** in theft detection & safety features
 
-We’ve built **anti-stalking protocols** and will secure **US/EU legal approval** before launch — because one misuse case could derail momentum.
+We’ve built **anti-stalking protocols** and will secure **US/EU legal approval** before launch - because one misuse case could derail momentum.
 
 ---
 
 ## Why We’re Different
-- **AI Theft Detection** – ML-powered, 90% fewer false positives vs existing tags  
-- **3D Precision Finding** – AR + sensor fusion for tracking through obstructions  
-- **Beyond Tracking** – Roadmap to evolve into a **personal safety platform**
+- **AI Theft Detection** - ML-powered, 90% fewer false positives vs existing tags  
+- **3D Precision Finding** - AR + sensor fusion for tracking through obstructions  
+- **Beyond Tracking** - Roadmap to evolve into a **personal safety platform**
 
 ---
 
@@ -76,7 +76,7 @@ We’re all **18 years old**, but:
 ---
 
 ## Roadmap to Moat
-Our bet: evolve from a hardware tracker to a **data-driven safety ecosystem** — unique datasets + scaled subscriptions + continuous innovation = sustainable ARR growth.
+Our bet: evolve from a hardware tracker to a **data-driven safety ecosystem** - unique datasets + scaled subscriptions + continuous innovation = sustainable ARR growth.
 
 ---
 
