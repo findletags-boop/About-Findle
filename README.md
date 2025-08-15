@@ -19,18 +19,19 @@ We combine **hardware + subscription** - a notoriously brutal model - so from da
 - Maintain cost advantage over copycats
 
 ---
+> [!IMPORTANT]
+> ## The Brutal Truth
+> Margins on hardware are tight.  
+> Copycat threat is **real**.  
+> Regulatory risk is **non-trivial**.  
 
-## The Brutal Truth
-Margins on hardware are tight.  
-Copycat threat is **real**.  
-Regulatory risk is **non-trivial**.  
+> Even with patents, big players can close the gap fast - our moat will be:
+> - **Exclusive datasets** from theft-prevention events  
+> - **Relentless cost-down** at scale  
+> - **Constant innovation** in theft detection & safety features
 
-Even with patents, big players can close the gap fast - our moat will be:
-- **Exclusive datasets** from theft-prevention events  
-- **Relentless cost-down** at scale  
-- **Constant innovation** in theft detection & safety features
-
-We’ve built **anti-stalking protocols** and will secure **US/EU legal approval** before launch - because one misuse case could derail momentum.
+> [!NOTE]
+> We’ve built **anti-stalking protocols** and will secure **US/EU legal approval** before launch - because one misuse case could derail momentum.
 
 ---
 
@@ -74,9 +75,9 @@ We’re all **18 years old**, but:
 - **Regulatory compliance report** (US/EU)
 
 ---
-
-## Roadmap to Moat
-Our bet: evolve from a hardware tracker to a **data-driven safety ecosystem** - unique datasets + scaled subscriptions + continuous innovation = sustainable ARR growth.
+> [!IMPORTANT]
+> ## Roadmap to Moat
+> Our bet: evolve from a hardware tracker to a **data-driven safety ecosystem** - unique datasets + scaled subscriptions + continuous innovation = sustainable ARR growth.
 
 ---
 
