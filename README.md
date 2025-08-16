@@ -94,7 +94,7 @@ We’re all **18 years old**, but:
 ---
 
 <p align="center">
-  🌐 <a href="https://findle-tags.netlify.app">Website</a> • 
-  📩 <a href="mailto:mahdyhossainjinan@gmail.com">Contact</a> • 
-  📄 <a href="https://drive.google.com/file/d/bc1qpjq2u4vwnyxe3u0flg8hfp3c8mfmd9f38ydu07/view?usp=sharing">Pitch Deck</a> • 
+  🌐 <a href="https://findle-tags.netlify.app" target='_blank'>Website</a> • 
+  📩 <a href="mailto:mahdyhossainjinan@gmail.com" target='_blank'>Contact</a> • 
+  📄 <a href="https://drive.google.com/file/d/1zxJFiRcKWeZRSh4j6gL_laRhD1Gjy_JX/view?usp=sharing" target='_blank'>Pitch Deck</a> • 
 </p>
