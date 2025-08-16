@@ -41,9 +41,9 @@ Findle is a next-generation **AI-powered smart tag** that:
 > ## Perfect Timing
 > Even though copycat threat is high and the big dogs wouldn't have an issue, we think this is the perfect time to take the tag industry by storm.
 > The big dogs of the industry?
-> - Iphone: They are releasing a new AirTag with minimal upgrades soon. All of their priorities are on Iphone enhancements (they are getting a lot of criticism for lack on innovation), Apple Watches and AR/VR. This gives us the perfect time to roll out a tag with true innovation.
-> - Samsung: Busy on foldables/flips, enhancing their base smartphones, using AI on their phones. They treat their tags as an "addition" to their fragmented ecosystem, not as a seperate category winning product
-> - Tile: They lost customer trust with the Tile Ultra. All smoke and mirrors. They launched the Tile Ultra, the most revolutionary smart tracker (or at least claimed), and their was huge hype and media buzz, but not even a prototype was seen. Not even one unit sold. I would crown this as one of the greats, but among vaporware.
+> - Apple: They're dropping a new AirTag soon... but it’s basically the same as the old one with a slightly better chip. Right now, all of Apple’s attention is on saving face with the iPhone (critics are putting them under fire for lack of innovation), updating the Watch, and diving deep into AR/VR. Tags? Not even in their top 10 priorities.
+> - Samsung: They’re all-in on foldables, flipping phones, and shoving AI into every corner of their smartphone lineup. Their ecosystem is fragmented, and their SmartThings tags are treated as secondary accessories. Their tag offering is a sidekick at best.
+> - Tile: They lost customer trust with the Tile Ultra. All smoke and mirrors. They launched the Tile Ultra, the most revolutionary smart tracker (or at least claimed), and there was huge hype and media buzz, but not even a prototype was seen. Not even one unit sold. I would crown this as one of the greats, but among vaporware.
 
 ---
 
