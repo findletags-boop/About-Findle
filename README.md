@@ -13,11 +13,6 @@ Findle is a next-generation **AI-powered smart tag** that:
 - **Locates hidden items**, even through walls/furniture
 - Powers **life-saving personal safety automations**
 
-We combine **hardware + subscription** - a notoriously brutal model - so from day one, we’ve engineered to:
-- Scale subscriptions fast
-- Use **our own logistics hubs** to reduce retail cost
-- Maintain cost advantage over copycats
-
 ---
 > [!IMPORTANT]
 > ## The Brutal Truth
@@ -26,12 +21,29 @@ We combine **hardware + subscription** - a notoriously brutal model - so from da
 > Regulatory risk is **non-trivial**.  
 
 > Even with patents, big players can close the gap fast - our moat will be:
-> - **Exclusive datasets** from theft-prevention events  
-> - **Relentless cost-down** at scale  
+> - **Exclusive hard-to-obtain datasets** from actual real-world theft-prevention events  
+> - **Relentless cost-down** at scale
 > - **Constant innovation** in theft detection & safety features
+
+> We combine **hardware + subscription** - a notoriously brutal model - so from day one, we’ve engineered to:
+> - Scale subscriptions fast
+> - Use **our own logistics hubs** to reduce retail cost
+> - Maintain cost advantage over copycats
+
+---
 
 > [!NOTE]
 > We’ve built **anti-stalking protocols** and will secure **US/EU legal approval** before launch - because one misuse case could derail momentum.
+
+---
+
+> [!IMPORTANT]
+> ## Perfect Timing
+> Even though copycat threat is high and the big dogs wouldn't have an issue, we think this is the perfect time to take the tag industry by storm.
+> The big dogs of the industry?
+> - Iphone: They are releasing a new AirTag with minimal upgrades soon. All of their priorities are on Iphone enhancements (they are getting a lot of criticism for lack on innovation), Apple Watches and AR/VR. This gives us the perfect time to roll out a tag with true innovation.
+> - Samsung: Busy on foldables/flips, enhancing their base smartphones, using AI on their phones. They treat their tags as an "addition" to their fragmented ecosystem, not as a seperate category winning product
+> - Tile: They lost customer trust with the Tile Ultra. All smoke and mirrors. They launched the Tile Ultra, the most revolutionary smart tracker (or at least claimed), and their was huge hype and media buzz, but not even a prototype was seen. Not even one unit sold. I would crown this as one of the greats, but among vaporware.
 
 ---
 
